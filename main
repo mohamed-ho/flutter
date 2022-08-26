@@ -1,5 +1,6 @@
 void main()
 {
- Stirng name : mohamed; 
+ Stirng name = mohamed;
+ int age = 22 
 }
 
