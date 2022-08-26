@@ -1,5 +1,6 @@
 void main()
 {
- 
+ String name  = mohamed hosny;
+ int age = 22; 
 }
 
