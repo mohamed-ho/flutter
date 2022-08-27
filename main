@@ -3,5 +3,8 @@ void main()
  String name  = mohamed hosny;
  int age = 22; 
  String universel = loxur;
+ String company = EDU;
+
+
 }
 
